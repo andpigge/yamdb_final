@@ -1,0 +1,12 @@
+.idea
+.vscode
+tests
+venv
+management
+static
+infra
+__pycache__
+pytest.ini
+setup.cfg
+.git
+Dockerfile
