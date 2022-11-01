@@ -1,5 +1,5 @@
 name: YAMDB
- 
+
 on:
   push:
       branches:
@@ -55,6 +55,7 @@ jobs:
         with:
           push: true
           tags: andpigge/api_yamdb:latest
+          context: ./api_yamdb/
 
   deploy:
     runs-on: ubuntu-latest
