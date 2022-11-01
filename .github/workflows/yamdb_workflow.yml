@@ -70,7 +70,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           script: |
             sudo docker pull andpigge/api_yamdb
-            sudo docker stop $(sudo docker ps -a -q)
+            sudo docker stop
             sudo docker-compose rm web
             touch .env
             echo DB_ENGINE=${{ secrets.DB_ENGINE }} >> .env
