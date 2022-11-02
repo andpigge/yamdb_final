@@ -72,9 +72,9 @@ jobs:
             cd ./yamdb_final/infra/
             git pull origin master
             sudo docker-compose down
-            doker image prune
             sudo docker image pull ${{ secrets.DOCKER_USERNAME }}/api_yamdb
             sudo docker-compose up -d --build
+            sudo doker image prune
 
   send_message:
     runs-on: ubuntu-latest
