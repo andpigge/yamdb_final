@@ -1,10 +1,6 @@
 name: YAMDB
 
-on:
-  push:
-      branches:
-        - main
-        - master
+on: [push]
 
 jobs:
   flake8_and_test:
