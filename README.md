@@ -47,10 +47,10 @@ Api для различных произведений, комментарий �
 
 <h2 align="center">О командном проекте YaMDb:</h2>
 
-<h3><li><a href='https://github.com/Rejden2000/api_yamdb/edit/master/README.md#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C'>установка проекта YaMDb без docker;</a></li></h3>
-<h3><li><a href='https://github.com/Rejden2000/api_yamdb/edit/master/README.md#%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9'>примеры api;</a></li></h3>
-<h3><li><a href='https://github.com/Rejden2000/api_yamdb/edit/master/README.md#%D1%81%D1%82%D0%B5%D0%BA-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8'>технологии;</a></li></h3>
-<h3><li><a href='https://github.com/Rejden2000/api_yamdb/edit/master/README.md#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0'>авторы;</a></li></h3>
+<h3><li><a href='https://github.com/Rejden2000/api_yamdb#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C'>установка проекта YaMDb без docker;</a></li></h3>
+<h3><li><a href='https://github.com/Rejden2000/api_yamdb#%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9'>примеры api;</a></li></h3>
+<h3><li><a href='https://github.com/Rejden2000/api_yamdb#%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9'>технологии;</a></li></h3>
+<h3><li><a href='https://github.com/Rejden2000/api_yamdb#%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9'>авторы;</a></li></h3>
 
 <h2 align="center">Процесс развертывания docker compose:</h2>
 
